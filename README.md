@@ -1,6 +1,8 @@
 # codes_n_coffee_assignment
 
-A new Flutter project.
+A Recipe App which helps user to search the recipes and saved their favorite recipe as well.
+
+For the list of recipes, I have used Spoonacular API to fecth the recipes. Also I have used Bloc architeture for state management.
 
 ## Getting Started
 
